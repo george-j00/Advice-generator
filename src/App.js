@@ -25,7 +25,7 @@ function App() {
   return (
 
     <>
-    <div className='navbar nav-bmi' >Advice Generator</div>
+    <div className='navbar nav-bar' >Advice Generator</div>
    
       <div className='container'>
       
